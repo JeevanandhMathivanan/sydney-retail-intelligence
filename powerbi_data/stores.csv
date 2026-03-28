@@ -1,0 +1,6 @@
+store_id,store_name,suburb,region,manager,target_monthly
+1,AusMart CBD,Sydney Cbd,Cbd,Sarah Chen,120000.0
+2,AusMart Parramatta,Parramatta,Western,James Wilson,95000.0
+3,AusMart Chatswood,Chatswood,North Shore,Priya Patel,88000.0
+4,AusMart Bondi,Bondi,Eastern,Michael Brown,82000.0
+5,AusMart Penrith,Penrith,Western,Lisa Nguyen,75000.0

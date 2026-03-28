@@ -1,0 +1,21 @@
+staff_id,name,store_id,role,salary,start_date
+1,Emma Thompson,1,Sales Associate,52000,2022-03-15
+2,Liam Johnson,1,Senior Associate,61000,2021-07-01
+3,Olivia Williams,1,Sales Associate,50000,2023-01-10
+4,Noah Brown,1,Team Leader,72000,2020-05-20
+5,Ava Jones,2,Sales Associate,51000,2022-09-01
+6,William Davis,2,Senior Associate,60000,2021-11-15
+7,Sophia Miller,2,Sales Associate,50000,2023-04-01
+8,James Wilson,2,Team Leader,70000,2020-08-10
+9,Isabella Moore,3,Sales Associate,52000,2022-06-01
+10,Benjamin Taylor,3,Senior Associate,62000,2021-03-20
+11,Mia Anderson,3,Sales Associate,51000,2023-02-14
+12,Elijah Thomas,3,Team Leader,71000,2020-11-01
+13,Charlotte Jackson,4,Sales Associate,52000,2022-08-01
+14,Lucas White,4,Senior Associate,60000,2021-05-15
+15,Amelia Harris,4,Sales Associate,50000,2023-03-01
+16,Mason Martin,4,Team Leader,69000,2021-01-10
+17,Harper Garcia,5,Sales Associate,50000,2022-10-01
+18,Ethan Martinez,5,Senior Associate,59000,2021-09-20
+19,Evelyn Robinson,5,Sales Associate,49000,2023-05-01
+20,Alexander Clark,5,Team Leader,68000,2021-02-15

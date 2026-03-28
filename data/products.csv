@@ -1,0 +1,51 @@
+product_id,name,category,cost,price,margin_pct
+1,Full Cream Milk 2L,Grocery,2.2,3.8,0.42
+2,Sourdough Bread 750g,Grocery,2.5,5.5,0.55
+3,Free Range Eggs 12pk,Grocery,4.2,7.5,0.44
+4,Chicken Breast 1kg,Grocery,7.0,13.0,0.46
+5,Cheddar Cheese 500g,Grocery,4.5,8.5,0.47
+6,Greek Yoghurt 1kg,Grocery,3.8,7.0,0.46
+7,Pasta 500g,Grocery,1.2,2.8,0.57
+8,Olive Oil 500ml,Grocery,5.5,11.0,0.5
+9,Canned Tomatoes 400g,Grocery,0.9,2.2,0.59
+10,Orange Juice 2L,Grocery,3.2,6.5,0.51
+11,Samsung 55 TV,Electronics,650.0,999.0,0.35
+12,iPhone 15 Case,Electronics,8.0,29.99,0.73
+13,Wireless Earbuds,Electronics,45.0,99.0,0.55
+14,USB-C Cable 2m,Electronics,5.0,19.99,0.75
+15,Portable Charger 20000mAh,Electronics,22.0,59.99,0.63
+16,Bluetooth Speaker,Electronics,35.0,89.99,0.61
+17,Smart Watch,Electronics,120.0,299.0,0.6
+18,Laptop Stand,Electronics,18.0,49.99,0.64
+19,Wireless Mouse,Electronics,15.0,39.99,0.63
+20,HDMI Cable 3m,Electronics,6.0,24.99,0.76
+21,Cotton T-Shirt,Clothing,8.0,29.99,0.73
+22,Denim Jeans,Clothing,22.0,79.99,0.73
+23,Winter Jacket,Clothing,45.0,149.0,0.7
+24,Running Shoes,Clothing,55.0,159.0,0.65
+25,Sports Socks 5pk,Clothing,5.0,19.99,0.75
+26,Polo Shirt,Clothing,12.0,49.99,0.76
+27,Yoga Pants,Clothing,18.0,64.99,0.72
+28,Baseball Cap,Clothing,7.0,24.99,0.72
+29,Leather Belt,Clothing,10.0,39.99,0.75
+30,Scarf,Clothing,8.0,29.99,0.73
+31,Shampoo 400ml,Health,3.5,9.99,0.65
+32,Vitamin C 500mg 60pk,Health,6.0,19.99,0.7
+33,Sunscreen SPF50+ 200ml,Health,5.5,16.99,0.68
+34,Hand Sanitiser 500ml,Health,2.5,7.99,0.69
+35,Paracetamol 20pk,Health,2.0,6.99,0.71
+36,Moisturiser 200ml,Health,7.0,22.99,0.7
+37,Toothbrush Electric,Health,18.0,49.99,0.64
+38,Floss Picks 150pk,Health,2.2,6.99,0.69
+39,Face Mask 10pk,Health,4.0,12.99,0.69
+40,Deodorant Roll-on,Health,2.8,8.99,0.69
+41,Coffee Mug,Home,4.0,14.99,0.73
+42,Frying Pan 28cm,Home,18.0,49.99,0.64
+43,Dish Soap 500ml,Home,1.8,5.99,0.7
+44,Bath Towel Set,Home,15.0,44.99,0.67
+45,Scented Candle,Home,6.0,19.99,0.7
+46,Storage Basket,Home,8.0,24.99,0.68
+47,Picture Frame A4,Home,5.0,16.99,0.71
+48,Laundry Powder 2kg,Home,6.5,18.99,0.66
+49,Cutting Board,Home,9.0,27.99,0.68
+50,Plant Pot 20cm,Home,5.5,17.99,0.69
